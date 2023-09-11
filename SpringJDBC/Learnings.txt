@@ -1,0 +1,5 @@
+1. In spring jdbc, java program uses jdbc template to commmunicate with database.
+   mysql passwd- Ashish@123, In this project - springjdbc is name of my database.
+
+2. @Autowired diya template obj ko to tell container k jab bhi mujhe iski need ho, pls provide it.
+   OR makes a class independent of its dependencies.
